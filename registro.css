@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	background-color: #bdbd5c;
+}
+
+#info_mail, #info_firma, #info_campos{
+	font-style: italic;
+	font-size: 15px;
+}
+
+#info_campos{
+	color: red;
+}
+
+span{
+	color: blue;
+}
+
+#info{
+	border: solid 1px;
+	background-color: #f6ba7f;
+	width: 55%;
+	margin: auto;
+	margin-bottom: 30px;
+}
+label{
+	font-size: 20px;
+}
+
+.aster{
+	color: red;
+}
